@@ -1,0 +1,7 @@
+2025/11/01 21:55:10 TCP Server listening on :42069
+2025/11/01 21:55:23 A connection has been accepted
+Handling connection from [::1]:42069
+namaste
+why
+who
+Connection closed for [::1]:58336
